@@ -1,12 +1,14 @@
-# [rsschool-cv](https://AnNavara.github.io/rsschool-cv/cv)
+
 
 # Viacheslav Serdiuk
 
 ### Front End Developer
 
-=====
+---
 
 ### Contact Information
-**Phone** +7 908 936 28 67 <br>
-**Email** +serdyukvw@gmail.com <br>
-**Phone** +7 908 936 28 67 <br>
+**Phone** +7 908 936 28 67
+**Email** +serdyukvw@gmail.com
+**Phone** +7 908 936 28 67
+
+---
